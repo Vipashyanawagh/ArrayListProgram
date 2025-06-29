@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 
-public class Main {
+public class array {
    public static void main(String[] args) {
        System.out.println("Name : Vipashyana Wagh, Roll no. 0873CS231135");
        // Create an ArrayList
